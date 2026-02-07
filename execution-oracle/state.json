@@ -1,0 +1,70 @@
+{
+    "idea": "build a todo app",
+    "plan": {
+        "total_phases": 6,
+        "phases": [
+            {
+                "phase": 1,
+                "tasks": [
+                    "Research existing todo apps to identify key features",
+                    "Analyze user reviews and ratings to identify areas for differentiation",
+                    "Create a list of required features for the new app",
+                    "Determine the target audience and their needs"
+                ],
+                "commit_message": "feat: complete research and analysis for phase 1"
+            },
+            {
+                "phase": 2,
+                "tasks": [
+                    "Define the app's functionality and technical requirements",
+                    "Design the user interface and user experience (UI/UX)",
+                    "Create a detailed specification document for the app",
+                    "Develop a rough wireframe of the app's layout"
+                ],
+                "commit_message": "feat: complete definition and design for phase 2"
+            },
+            {
+                "phase": 3,
+                "tasks": [
+                    "Design a minimum viable product (MVP) based on the specification document",
+                    "Create a prototype of the MVP to test with a small group of users",
+                    "Develop a plan for testing and gathering feedback from users",
+                    "Prepare a survey or questionnaire to collect user feedback"
+                ],
+                "commit_message": "feat: complete MVP design and planning for phase 3"
+            },
+            {
+                "phase": 4,
+                "tasks": [
+                    "Develop the MVP and conduct internal testing",
+                    "Gather feedback from the small group of users and iterate on the MVP",
+                    "Refine the app's features and UI/UX based on user feedback",
+                    "Conduct A/B testing to validate design decisions"
+                ],
+                "commit_message": "feat: complete MVP development and testing for phase 4"
+            },
+            {
+                "phase": 5,
+                "tasks": [
+                    "Develop a fully functional app based on the refined MVP",
+                    "Conduct thorough testing, including unit testing and integration testing",
+                    "Ensure the app is compatible with various platforms and devices",
+                    "Optimize the app's performance and fix any bugs"
+                ],
+                "commit_message": "feat: complete full app development for phase 5"
+            },
+            {
+                "phase": 6,
+                "tasks": [
+                    "Deploy the app on various platforms, including app stores and websites",
+                    "Develop a plan for marketing and promoting the app",
+                    "Ensure continuous improvement through regular updates and maintenance",
+                    "Monitor user feedback and iterate on the app to add new features"
+                ],
+                "commit_message": "feat: complete deployment and maintenance planning for phase 6"
+            }
+        ]
+    },
+    "current_phase": 1,
+    "repo_url": ""
+}
